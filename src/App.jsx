@@ -4,6 +4,7 @@ import Contato from './pages/Contato'
 import Sobre from './pages/Sobre'
 import { Router } from 'react-router-dom'
 
+
 const App = () => {
   return (
     <Router>
